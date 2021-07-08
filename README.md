@@ -1,4 +1,5 @@
 # svgp-nacimientos
 
-modelo de regresión con procesos gaussianos
-implementacion del ejemplo del libro Bayesian Data Analysis - Gelman usando gpflow
+Modelo de regresión con procesos gaussianos
+
+Implementacion del ejemplo del libro Bayesian Data Analysis - Gelman usando gpflow
