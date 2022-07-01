@@ -1,5 +1,3 @@
-# svgp-nacimientos
+# sparse variational gaussian process
 
-Modelo de regresión con procesos gaussianos
-
-Implementacion del ejemplo del libro Bayesian Data Analysis - Gelman usando gpflow
+Implementacion con gpflow del ejemplo del libro Bayesian Data Analysis (Gelman) 
